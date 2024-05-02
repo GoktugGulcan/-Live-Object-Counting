@@ -14,11 +14,6 @@ git clone https://github.com/GoktugGulcan/-Live-Object-Counting.git
 Install the required dependencies:
 
 pip install -r requirements.txt
-Usage
-Navigate to the project directory:
-
-cd your_repo
-Run the application with the desired webcam resolution:
 
 python main.py --resolution 1280 720
 Position the object of interest within the camera frame, preferably in the left corner.
