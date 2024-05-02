@@ -10,7 +10,7 @@ Easy-to-use command-line interface.
 Installation
 Clone the repository:
 
-git clone https://github.com/your_username/your_repo.git
+git clone https://github.com/GoktugGulcan/-Live-Object-Counting.git
 Install the required dependencies:
 
 pip install -r requirements.txt
